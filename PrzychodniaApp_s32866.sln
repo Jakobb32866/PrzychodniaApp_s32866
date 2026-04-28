@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrzychodniaApp_s32866", "PrzychodniaApp_s32866\PrzychodniaApp_s32866.csproj", "{B443EE74-82CE-49B2-9615-19DFF667E395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B443EE74-82CE-49B2-9615-19DFF667E395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B443EE74-82CE-49B2-9615-19DFF667E395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B443EE74-82CE-49B2-9615-19DFF667E395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B443EE74-82CE-49B2-9615-19DFF667E395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
